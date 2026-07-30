@@ -19,7 +19,7 @@ def run_flask():
     app.run(host='0.0.0.0', port=port)
 
 # Telegram Bot Token
-TOKEN = "8833074176:AAGbarsayQx2J9F_59YL4mGC1kLPTq-WTQ8"
+TOKEN = "8833074176:AAHNpPKlFTeD6KaigdbYsUMXYtdERcetkds"
 
 # Bütün filtrlərin cari vəziyyətini göstərən menyu
 def main_keyboard(user_data):
